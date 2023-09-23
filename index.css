@@ -333,7 +333,7 @@
   background-color: var(--black-100);
   border-bottom: 1px solid var(--black-85);
   box-sizing: border-box;
-  width: 1216px;
+  width: 1200px;
   flex-direction: row;
   padding: var(--padding-xs) 32px;
   gap: var(--gap-base);
@@ -1283,7 +1283,7 @@
   background-color: var(--black-98);
   width: 100%;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: stretch;
   text-align: left;
   font-size: var(--body-1-regular-size);
   color: var(--black-100);
